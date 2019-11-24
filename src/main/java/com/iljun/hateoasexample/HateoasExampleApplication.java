@@ -10,4 +10,5 @@ public class HateoasExampleApplication {
         SpringApplication.run(HateoasExampleApplication.class, args);
     }
 
+
 }
